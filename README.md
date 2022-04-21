@@ -24,7 +24,7 @@
   <br/>💡 interested to know more about computer science;
   <br/>🦜 English level: middle;
   <br/>🤔 Arduino addicted;
-  <br/>💞️ Loves: Cats, coffee e Lo-Fi;
+  <br/>💞️ Loves: Cats, trance, dance;
  </div>
     
   
