@@ -3,8 +3,8 @@
   
   <div align="center">
   <a href="https://github.com/paru369">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paru369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paru369&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paru369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paru369&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <br/><img width="12px" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F39527417-c8b4-4c62-ba1b-778bed35d19a%2Fexplorer-logo.svg?table=block&id=271a48f7-0016-4e99-8756-f9f2c3a399ce&spaceId=f5f08aa3-2c56-438b-826b-8b93256e2d72&userId=a6fed87f-379f-4bc3-8c1e-9b93b144951c&cache=v2"/><strong>&nbsp;&nbsp;&nbsp;FullStack WebDev Explorer</strong></div>
