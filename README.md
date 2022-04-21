@@ -34,5 +34,5 @@
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   </div>
   
-   ![Snake animation](https://github.com/piluvitu/piluvitu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
