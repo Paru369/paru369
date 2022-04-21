@@ -21,13 +21,14 @@
   <br/>👨‍🚀 currently coursing WebDev and English, at Rockeseat and Alura/Alura Linguas
   <br/>🌱 studying **FullStack development** 💻
   <br/>💡 interested to know more about computer science
-  <br/>🦜 English level: middle </div>
+  <br/>🦜 English level: middle 
   <br/>🤔 Arduino lover
+ </div>
     
   
   <br/>
   
-   <div align="center">
+ 
   ## tech stacks (learning)
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
@@ -35,7 +36,7 @@
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  </div>
+  </div> </div>
   
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
   
