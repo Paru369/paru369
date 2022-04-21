@@ -16,13 +16,15 @@
 <div align="left">
 
   ## about me
-  <br/>🎓 Nutritionist and electronics technician
-  <br/>🔭 (loading...) changing carrer paths
-  <br/>👨‍🚀 currently coursing WebDev and English, at Rockeseat and Alura/Alura Linguas
-  <br/>🌱 studying **FullStack development** 💻
-  <br/>💡 interested to know more about computer science
-  <br/>🦜 English level: middle 
-  <br/>🤔 Arduino lover
+  <br/>🎓 Nutritionist and electronics technician;
+  <br/>🌱 Vegan;
+  <br/>🔭 (loading...) changing carrer paths;
+  <br/>👨‍🚀 currently coursing WebDev and English, at Rockeseat and Alura/Alura Linguas;
+  <br/>💻 studying **FullStack development**;
+  <br/>💡 interested to know more about computer science;
+  <br/>🦜 English level: middle;
+  <br/>🤔 Arduino addicted;
+  <br/>💞️ Loves: Cats, coffee e Lo-Fi;
  </div>
     
   
