@@ -19,9 +19,9 @@
   <br/>🎓 Nutritionist and electronics technician;
   <br/>🌱 Vegan;
   <br/>🔭 (loading...) changing carrer paths;
-  <br/>👨‍🚀 currently coursing WebDev and English, at Rockeseat and Alura/Alura Linguas;
+  <br/>👨‍🚀 currently coursing Explorer at Rockeseat, Front-End at Alura, English at Alura Linguas;
   <br/>💻 studying **FullStack development**;
-  <br/>💡 interested to know more about computer science;
+  <br/>💡 interested to know more about software engineering;
   <br/>🦜 English level: middle;
   <br/>🤔 Arduino addicted;
   <br/>💞️ Loves: Cats, trance, dance;
