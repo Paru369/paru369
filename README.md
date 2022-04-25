@@ -42,6 +42,5 @@
 
   <br>
    
-  
-![Snake animation](https://github.com/paru369/paru369/blob/output/github-contribution-grid-snake.svg)
+
   
