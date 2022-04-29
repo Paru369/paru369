@@ -16,10 +16,7 @@
   <br/>🔭 (loading...) changing carrer paths;
   <br/>💻 studying **FullStack development** (HTML, CCS e JavaScript);
   <br/>💡 interested to know more about software engineering;
-  <br/>🦜 English level: middle;
   <br/>🤔 Arduino addicted;
-  <br/>💞️ Loves: Cats, trance, dance;
- </div>
   <br/>
   
  
