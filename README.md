@@ -13,8 +13,8 @@
  <img align="right" width="300em" height="300em" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?raw=true"/>
  🎓 Nutritionist and electronics technician;
   <br/>🌱 Vegan;
-  <br/>🔭 (loading...) changing carrer paths;
-  <br/>💻 studying **FullStack development** (HTML, CCS e JavaScript);
+  <br/>🔭 (loading...) changing career paths;
+  <br/>💻 studying FullStack development (HTML, CCS e JavaScript);
   <br/>💡 interested to know more about software engineering;
   <br/>🤔 Arduino addicted;
   <br/>
