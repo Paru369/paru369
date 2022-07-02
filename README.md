@@ -12,7 +12,7 @@
 
   ## ⚡about me
 
-  <br/> 🎓 Nutritionist and electronics technician;
+  <br/> 🎓 Nutritionist, electronics technician and learn systems development;
   <br/>🌱 Vegan;
   <br/>🔭 (loading...) changing career paths;
   <br/>💻 studying FullStack development (HTML, CCS e JavaScript);
@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Cypress.io](https://img.shields.io/badge/-Cypress.io-05122A?style=flat&logo=cypress)&nbsp;
+
 
    
    ## ⚙️ &nbsp;GitHub Analytics
