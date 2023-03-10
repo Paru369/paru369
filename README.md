@@ -14,8 +14,8 @@
 
   <br/> 🎓 Nutritionist, electronics technician and learn systems development;
   <br/>🌱 Vegan;
-  <br/>🔭 (loading...) changing career paths;
-  <br/>💻 studying FullStack development (HTML, CCS e JavaScript);
+  <br/>🔭 QA Engenieer;
+  <br/>💻 studying Load Tests, Automation tools;
   <br/>💡 interested to know more about software engineering;
   <br/>🤔 Arduino addicted;
   <br/>
