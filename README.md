@@ -8,8 +8,6 @@ iOS Software Developer && QA Automation Engineer</strong></div>
   <br><br>
 
 
- 
-
   ## ⚡about me
 
   <br/> 🎓 Nutritionist, electronics technician and learn systems development;
