@@ -3,10 +3,10 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=paru369&label=Profile%20views&color=0e75b6&style=flat" alt="paru" /> <br>   
 </p>
-
 <a href="https://www.linkedin.com/in/paru369/" target="_blank"><img src="https://img.shields.io/badge/-paulopinheiro-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn paru369-" height="20"></a>&nbsp; 
 <a href="mailto:paruvitu@gmaill.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="20"> </a>
-  <br><br>
+  <br>
+  <br>
 
 <div align="center">
     <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=paru369&show_icons=true&count_private=true&hide_border=true&title_color=BF3636&icon_color=D9A282&text_color=BF7154&bg_color=0d1117" alt="Paru github stats"/>  <br>
